@@ -26,7 +26,44 @@ body {
 
 #foto {
   height: 100%;
+  
 }
+
+
+#email{
+position: relative;
+left: 3rem;
+top: 30rem;
+color: #A8A8A8;
+Font-family: 'Spartan';
+Font-size: 18px;
+fill:solid; 
+
+}
+
+#b{
+  position: absolute;
+  background-image: url("image/button.jpg");
+height: 48px;
+width: 48px;
+left: 41.6rem;
+top: 502px;
+border-radius: 3px;
+
+    
+    
+
+}
+
+ #conta input{
+   position: relative;
+    border-radius: 2px;
+    padding: 14px;
+    width: 45.2em;
+    top: 30rem;
+    left: 2rem;
+
+  }
 
 #foto img {
   width: 100%;
@@ -42,7 +79,7 @@ body {
   width: 566px;
   height: 30.44px;
   left: 36px;
-  top: 236px;
+  top: 290px;
   font-family: "Work Sans";
   font-size: 24px;
   font-weight: bold;
@@ -54,7 +91,7 @@ body {
   width: 517px;
   height: 16px;
   left: 36px;
-  top: 275px;
+  top: 335px;
   font-family: "Spartan", "Work Sans";
   font-size: 14px;
   font-weight: bold;
@@ -66,10 +103,12 @@ body {
   width: 647px;
   height: 38px;
   left: 36px;
-  top: 302px;
+  top: 372px;
   font-family: "Spartan", "Work Sans";
   font-size: 14px;
 }
+
+
 
 #link {
   color: #8257e5;
@@ -77,5 +116,7 @@ body {
   width: 167px;
   height: 19px;
   left: 36px;
-  top: 524px;
+  top: 880px;
+  font-family: "Work Sans";
+  font-weight: bold;
 }
